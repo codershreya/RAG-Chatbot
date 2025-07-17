@@ -1,0 +1,7 @@
+langchain-core
+langchain-ollama
+langchain-community
+langchain-huggingface
+streamlit
+PyPDF2
+nltk
